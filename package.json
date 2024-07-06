@@ -12,8 +12,10 @@
     },
     "dependencies": {
         "react": "^18.3.1",
-        "react-dom": "^18.3.1",
-        "ts-node": "^10.9.2"
+        "react-dom": "^18.3.1"
+    },
+    "optionalDependencies": {
+        "@rollup/rollup-linux-x64-gnu": "4.6.1"
     },
     "devDependencies": {
         "@babel/core": "^7.24.7",
